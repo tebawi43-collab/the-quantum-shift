@@ -1,6 +1,1 @@
-module.exports = {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {},
-  },
-}
+hbsubskobh 3​ hhsunjs
